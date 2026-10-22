@@ -92,14 +92,6 @@ The complete tournament is simulated thousands of times. For each team, the mode
 - Reaches the final
 - Wins the championship
 
-Each probability is estimated as:
-
-\[
-P(\text{stage}) =
-\frac{\text{simulations reaching stage}}
-{\text{total simulations}}\times 100
-\]
-
 A fixed random seed supports reproducibility. Championship probabilities across all teams should sum to approximately 100%, subject to rounding.
 
 ## Running the Project
