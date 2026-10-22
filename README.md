@@ -30,7 +30,7 @@ The model uses international football results containing match dates, teams, sco
 
 The data is sorted chronologically, and each match is assigned an identifier to support consistent processing.
 
-**Data source:** [International Football Results, 1872–2017 — Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
+**Data source:** [International Football Results, 1872–2026 — Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
 
 The local dataset may include updates beyond the years stated in its title.
 
